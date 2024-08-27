@@ -14,8 +14,8 @@
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js",
-      "static/css/app/page.css"
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
     ],
     "/meals/page": [
       "static/chunks/webpack.js",
@@ -25,6 +25,7 @@
     "/community/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/community/page.css",
       "static/chunks/app/community/page.js"
     ],
     "/meals/share/page": [

@@ -1,7 +1,8 @@
 {
+  "/page": "app/page.js",
   "/community/page": "app/community/page.js",
   "/meals/share/page": "app/meals/share/page.js",
   "/meals/[mealSlug]/page": "app/meals/[mealSlug]/page.js",
   "/meals/page": "app/meals/page.js",
-  "/page": "app/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
