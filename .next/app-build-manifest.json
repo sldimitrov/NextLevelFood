@@ -14,7 +14,8 @@
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/app/page.js",
+      "static/css/app/page.css"
     ],
     "/meals/page": [
       "static/chunks/webpack.js",
