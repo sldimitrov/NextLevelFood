@@ -23,7 +23,7 @@
 * *In case you want to share your thoughs about my project you are free to do so at slavidimitrov54@gmail.com*
 
 ## Knowledge stack: <⚛️/> 
- ### For Next.js the core concept you should know in depth is simply React.
+ ### For Next.js the core concept you should know in depth is, of course, React.
 <img align="right" width="340" height="190" alt="react core concepts" src="https://github.com/sldimitrov/ReactWeatherApp/assets/135168991/7b864aeb-9cf4-49a4-905e-ec10290f2932" /> 
 <p>
  ⚙️ Server and client side components.
