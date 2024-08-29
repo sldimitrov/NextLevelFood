@@ -27,8 +27,8 @@
 <img align="right" width="340" height="190" alt="react core concepts" src="https://github.com/sldimitrov/ReactWeatherApp/assets/135168991/7b864aeb-9cf4-49a4-905e-ec10290f2932" /> 
 <p>
  ⚙️ Server and client side components.
-Every components consists HTML and JS in its core. Every one of them is styling with the use of CSS classes <br/>
- 🔍 For the database I have used SQLlite3 which is easy-to-handle and set-up. Perfect for my fullstack application as long as it doesn't containt too much dynamic data to be stored.
+Every components consists HTML and JS in its core. Every one of them was style with the use of CSS classes. <br/>
+ 🔍 My database is SQLlite3. It is easy-to-handle and set-up. Perfect for my fullstack application as long as it doesn't containt too much dynamic data to be stored.
  🌀 For the page routing App Router was applied. Thats a library suggested by Next.js. My FoodiesApp shows the user Loading, Error and NotFound pages with ease.
  
  ### To sum up the tech-stack:
