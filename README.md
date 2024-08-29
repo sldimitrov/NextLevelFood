@@ -49,7 +49,7 @@ Every components consists HTML and JS in its core. Every one of them was style w
   npm install
 ```
 *With this command you install all packages that you need to run the React project.*
-* After the *node_modules* folder is being install type:
+* After the *installation* type:
 ```bash
   npm start
 ```
