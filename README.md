@@ -7,7 +7,7 @@
 * NextLevelFood: Because food should be fun! Join our community of foodies and share your culinary creations.
 
 ## Table of contents
-* [New demo](https://github.com/user-attachments/assets/ffd98f26-d440-49a0-903c-d882893e9337)
+* [Live Demo](https://github.com/user-attachments/assets/ffd98f26-d440-49a0-903c-d882893e9337)
 * [Feedback](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#feedback-)
 * [Knowledge stack](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#knowledge-stack-%EF%B8%8F)
 * [Setup/Installation](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#setup--installation-)
@@ -16,10 +16,8 @@
 * [Credits](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#credits-)
 * [License](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#license-%EF%B8%8F)
 
-## Live demo of the functionality: 🔗 
+## Live demo 🔗 
 [Live demo](https://github.com/user-attachments/assets/0a1f1d10-069d-4d8e-a136-fb0e6eaba6a0)
-
-
 
 ## Feedback 💭💭  
 * *In case you want to share your thoughs about my project you are free to do so at slavidimitrov54@gmail.com*
