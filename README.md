@@ -17,7 +17,9 @@
 * [License](https://github.com/sldimitrov/ReactWeatherApp/blob/main/README.md#license-%EF%B8%8F)
 
 ## Live demo of the functionality: 🔗 
-[https://github.com/sldimitrov/Web/assets/135168991/41c57568-3de4-469f-b46b-392aaf3ad847](https://github.com/sldimitrov/ReactWeatherApp/assets/135168991/3ae2d7ed-a9ae-41b7-9843-e18a628effcd)
+[Live demo](https://github.com/user-attachments/assets/0a1f1d10-069d-4d8e-a136-fb0e6eaba6a0)
+
+
 
 ## Feedback 💭💭  
 * *In case you want to share your thoughs about my project you are free to do so at slavidimitrov54@gmail.com*
