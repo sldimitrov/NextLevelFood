@@ -2,7 +2,7 @@
 ## `NextLevelFood`
 
 # Description: #
-<img align="right" width="150" height="150" src="https://github.com/sldimitrov/ReactWeatherApp/assets/135168991/411e28f1-4dd0-4c6c-8758-1ddeff414195"/>
+<img align="right" width="150" height="150" src='https://github.com/user-attachments/assets/d7aa96bd-c93f-4461-a11a-00c7feb08bee'/>
 
 * NextLevelFood: Because food should be fun! Join our community of foodies and share your culinary creations.
 
