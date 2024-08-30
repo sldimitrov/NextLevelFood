@@ -7,6 +7,7 @@
 * NextLevelFood: Because food should be fun! Join our community of foodies!
 * Share your recipes on NextLevelFood.
 * Your culinary adventure starts here.
+* Are you ready to dive into?
 
 ## Live demo 🔗 
 [Live demo](https://github.com/user-attachments/assets/0a1f1d10-069d-4d8e-a136-fb0e6eaba6a0)
