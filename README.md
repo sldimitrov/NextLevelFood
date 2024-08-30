@@ -4,7 +4,9 @@
 # Description: #
 <img align="right" width="150" height="150" src='https://github.com/user-attachments/assets/d7aa96bd-c93f-4461-a11a-00c7feb08bee'/>
 
-* NextLevelFood: Because food should be fun! Join our community of foodies and share your culinary creations.
+* NextLevelFood: Because food should be fun! Join our community of foodies!
+* Share your recipes on NextLevelFood.
+* Your culinary adventure starts here.
 
 ## Live demo 🔗 
 [Live demo](https://github.com/user-attachments/assets/0a1f1d10-069d-4d8e-a136-fb0e6eaba6a0)
